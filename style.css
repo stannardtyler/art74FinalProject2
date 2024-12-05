@@ -13,6 +13,14 @@ body {
 }
 /*This ends the body tag CSS*/
 
+/* This will help center and make your images responsive */
+img {
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+  display: block;
+}
+
 /*This style code below changes the header box style that we see at the top of the page*/
 .jumbotron {
   padding-top: 100px;
